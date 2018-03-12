@@ -318,6 +318,7 @@ $outputmarkdown = Invoke-Template -template $template -builds $builds -releases 
 if ($appendToFile -eq $false)
 {
     write-Verbose "Writing to output file [$outputfile]."
+    Set-Content "Tim.txt" "Hello, world"
     Set-Content $outputfile $outputmarkdown 
 } else 
 {

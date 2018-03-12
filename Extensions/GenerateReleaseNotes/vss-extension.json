@@ -1,10 +1,10 @@
 {
  "manifestVersion": 1,
- "id": "BM-VSTS-GenerateReleaseNotes-Task",
+ "id": "BM-VSTS-GenerateReleaseNotes-Task-IRM",
  "version": "1.0.0",
- "name": "Generate Release Notes Build Task",
- "publisher": "richardfennellBM",
-  "description": "Generates a Markdown Release notes file.",
+ "name": "Generate Release Notes Build Task - IRM",
+ "publisher": "timrueterIRM",
+  "description": "Generates a Markdown Release notes file, and also saves down all changeset files since last build.",
  "categories": [
     "Build and release"
   ],

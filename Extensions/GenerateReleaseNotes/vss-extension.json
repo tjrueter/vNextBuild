@@ -1,7 +1,7 @@
 {
  "manifestVersion": 1,
  "id": "BM-VSTS-GenerateReleaseNotes-Task-IRM",
- "version": "1.0.0",
+ "version": "1.1.0",
  "name": "Generate Release Notes Build Task - IRM",
  "publisher": "trueter-vsts-software",
   "description": "Generates a Markdown Release notes file, and also saves down all changeset files since last build.",
